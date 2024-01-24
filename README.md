@@ -19,7 +19,7 @@ Les formations sont présentés sous la forme de page traitant de sujetts spéci
 ## Le fonctionnement
 (navigation, parcours utilisateur, usages...)
 
-![customerJourney](\Drawings\Parcours_Utilisateur.svg)
+![customerJourney](https://github.com/AntheaLiles/dataCraft/blob/main/Drawings/Parcours_Utilisateur.svg)
 
 ## La stack
 (SPA, Blazor, .NET 8, MAUI, FluentUI...)

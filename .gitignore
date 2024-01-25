@@ -1,3 +1,8 @@
 # Config JetBrains IDE
 .idea
 .fleet
+
+# Visual Studio
+.vs
+bin
+obj

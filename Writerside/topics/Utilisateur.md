@@ -4,6 +4,6 @@
 
 ## Parcours utilisateur
 
-![customerJourney](../Drawings/Parcours_Utilisateur.svg)
+![customerJourney](../Drawings/dataCraft_Parcours_Utilisateur.svg)
 
 ## Usages

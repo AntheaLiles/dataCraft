@@ -6,6 +6,7 @@
                  name="Documentation"
                  start-page="Home.md">
 
-    <toc-element topic="Page-Constructor.md"/>
     <toc-element topic="Home.md"/>
+    <toc-element topic="Utilisateur.md"/>
+    <toc-element topic="Page-Constructor.md"/>
 </instance-profile>

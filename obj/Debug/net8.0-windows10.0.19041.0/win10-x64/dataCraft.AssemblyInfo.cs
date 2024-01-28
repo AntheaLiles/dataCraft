@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dataCraft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+efbdd8c8e084ad834acca39717b92fc8bbac7697")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ec7ead50894638458757da7be0ffdf88815b3275")]
 [assembly: System.Reflection.AssemblyProductAttribute("dataCraft")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dataCraft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

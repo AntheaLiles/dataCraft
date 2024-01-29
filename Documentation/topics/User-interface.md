@@ -1,4 +1,7 @@
 # User interface
 
-![ui_learning](../Drawings/dataCraft_Global_Ui.svg)
+## Page type
+![ui_learning](../Drawings/dataCraft_Mockup_Page.svg)
 
+## Volets d'exercices
+![ui_pratique](../Drawings/dataCraft_Mockup_Exercices.svg)

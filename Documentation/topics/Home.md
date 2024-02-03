@@ -1,7 +1,4 @@
 # Home
-<tldr>
-TLDR
-</tldr>
 ## Le projet dataCraft
 dataCraft est une plateforme d'e-learning dédié à l'ingénierie de la construction.
 
@@ -9,9 +6,3 @@ Son objectif est d'accompagner la montée en compétence des professionnels du b
 
 ## La documentation
 La présente documentation vise à expliquer le fonctionnement attendu des différents composants du projet.
-
-```Tex
-\text{LaTeX support }
-
-\int{\frac{1}{\sqrt{2}}}
-```

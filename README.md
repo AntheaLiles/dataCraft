@@ -4,7 +4,7 @@ dataCraft est une plateforme d'e-learning dédié à l'ingénierie de la constru
 
 ## La stack
 Pour assurer une interopérabilité native cross-plateforme, nous avons retenus le framework :
-Application WebAssembly MAUI Blazor .NET 8
+Application WebAssembly Blazor .NET 8
 
 La documentation est créée avec Writeside.
 

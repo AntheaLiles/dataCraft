@@ -8,9 +8,6 @@ Application WebAssembly Blazor .NET 8
 
 La documentation est créée avec Writeside.
 
-## Organisation du projet
-![Arborescence](Documentation/Drawings/dataCraft_Project_Organisation.svg)
-
 ## Mentions légales
 L'ensemble du fonctionnement BackEnd et FrontEnd sont OpenSource sous licence MIT.
 
